@@ -1,0 +1,5 @@
+object HelloWorld {
+  def mail(args: Array[String]){
+    println("Hello World")
+    }
+    }
